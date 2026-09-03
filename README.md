@@ -6,7 +6,7 @@ This repository documents an ongoing building-performance and retrofit study of 
 
 The project combines climate analysis, BIM-based existing-condition modelling, whole-building energy simulation, envelope assessment and two-dimensional thermal-bridge analysis to establish a documented baseline before developing retrofit measures.
 
-**Reference typology:** TABULA `DE.N.MFH.05.Gen.ReEx.001.001`
+**Reference typology:** TABULA `DE.N.MFH.05.Gen.ReEx.001`
 
 ---
 
